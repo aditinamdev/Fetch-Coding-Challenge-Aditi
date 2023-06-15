@@ -189,8 +189,8 @@ I would love to have a discussion with you to further explore these points and a
 
 Thank you for your attention and support in advancing data-driven decision making within our organization.
 
-Best regards,
-Aditi Namdeo
+Best regards,<br>
+Aditi Namdeo <br>
 Data Analyst, Fetch
 
 _Answers can also be found in the uploaded PDF in the repository_ 
